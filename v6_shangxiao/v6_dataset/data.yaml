@@ -1,0 +1,6 @@
+train: ./images/train
+val: ./images/valid
+test: ./images/test
+
+nc: 4
+names: ['device', 'live', 'mask', 'photo']
