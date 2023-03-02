@@ -1,2 +1,2 @@
-nc: 4
+nc:  4
 names: ['device', 'live', 'mask', 'photo']

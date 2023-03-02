@@ -12,7 +12,7 @@ org_dic = {"device":0,"photo":3,"live":1,"mask":2}
 filename_list = list()
 for i in image_list:
     filename_list.append(i)
-#print(filename_list)
+
 
 
 width = 640
